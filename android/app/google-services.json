@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1034598304627",
+    "project_id": "exam-fb81b",
+    "storage_bucket": "exam-fb81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034598304627:android:1fe90753349bfdc3065306",
+        "android_client_info": {
+          "package_name": "com.example.logi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034598304627-7l060jtamf08ia1ifec8rgi2f29j2n1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwq0Il4NRn-sr-fBUOC5XVuHqsDcaEEF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034598304627-7l060jtamf08ia1ifec8rgi2f29j2n1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034598304627-c9alr5omc7a6vet55pvv33pgh7rln0a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
